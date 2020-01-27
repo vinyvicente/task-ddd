@@ -1,2 +1,2 @@
 # task-ddd
-Simple Task DDD
+Simple Task DDD made with pure PHP and PHPUnit

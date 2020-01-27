@@ -5,7 +5,7 @@ namespace App\Infrastructure;
 use App\Domain\User;
 use App\Domain\UserRepository;
 
-class InMemoryUserRepository extends InMemoryRepository  implements UserRepository
+class InMemoryUserRepository extends InMemoryRepository implements UserRepository
 {
     public function create(User $user): int
     {
